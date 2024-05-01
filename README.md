@@ -39,7 +39,7 @@ A fully responsive Portfolio website which is a unique way to showcase my works 
 
 <h2>Snap of Main Page⭐</h2>
 
-![Main](https://user-images.githubusercontent.com/73993775/217278377-78e996cc-7805-4e91-a1d3-fa7e1ee50ebe.png)
+![Main](https://github.com/Prabhakar1437/My-Portfolio-Website/blob/main/Profolio.webp)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -59,7 +59,9 @@ git clone https://github.com/<your-github-username>/My-Portfolio-Website.git
 <h2>Contact Me📞</h2>
 
 You can contact me through any social handles mentioned in this bio link tree.<br><br>
-<a href="https://rakesh9100.bio.link"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white&labelColor=ff5858&color=bf58ff" width="150px"></a>
+Email -prabhakarvatsking@gmail.com
+Insta- https://www.instagram.com/vatsprabhakar/
+LinkedIn – https://www.linkedin.com/in/prabhakar-vats/
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
