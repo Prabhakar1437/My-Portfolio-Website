@@ -58,10 +58,15 @@ git clone https://github.com/<your-github-username>/My-Portfolio-Website.git
 
 <h2>Contact Me📞</h2>
 
-You can contact me through any social handles mentioned in this bio link tree.<br><br>
-Email -prabhakarvatsking@gmail.com
-Insta- https://www.instagram.com/vatsprabhakar/
-LinkedIn – https://www.linkedin.com/in/prabhakar-vats/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Er_Prabhakar141" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/Er_Prabhakar141" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhakar-vats/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"alt="https://www.linkedin.com/in/prabhakar-vats/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="https://stackoverflow.com/users/24114798/prabhakar-vats?tab=profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vatsprabhakar/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/vatsprabhakar/" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/1234471005481603093" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://www.kaggle.com/prabhakarvats1" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/" target="blank"><img src="https://skillicons.dev/icons?i=gmail alt="https://mail.google.com/mail/" height="30" width="40" /></a>
+</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
